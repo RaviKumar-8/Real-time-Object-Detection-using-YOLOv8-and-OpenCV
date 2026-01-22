@@ -26,12 +26,13 @@ Open your terminal or command prompt and run the following command to install th
 
 ```bash
 pip install opencv-python ultralytics
-3. Run the Project
+```
+### 3. Run the Project
 Run the Python script from your terminal:
 
-Bash
-
+```Bash
 python detect.py
+```
 A window will open showing your webcam feed with detection boxes drawn around objects.
 
 To quit the program, make sure the video window is active and press the 'q' key on your keyboard.
